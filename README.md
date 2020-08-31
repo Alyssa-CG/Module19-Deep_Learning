@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Neural Networks and Deep Learning Techniques were used to analyse data, predict outcomes and evaluate the accuracy of the model utilised.
+Neural Networks and Deep Learning Techniques were used to analyse data, predict outcomes and evaluate the accuracy of the model utilised. For this Challenge, we were trying to create a model to predict the success of different monetary allocations from a donor, so the donor organisation could more confidently approve or deny applications. 
 
 ## Resources
 #### Language and Packages
